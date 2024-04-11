@@ -1,0 +1,49 @@
+#navthings{
+    background-color:lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+#home{
+    margin-right: 3%;
+    padding: 0.6%;
+}
+.button{
+    text-decoration: none;
+    color: black;
+}
+#heading{
+    text-align: center;
+    margin-top: 6%;
+}
+.box{
+    border: solid black;
+    padding: 8%;
+}
+#color-box{
+    margin-top:12%;
+    margin-left: 18%; 
+}
+#grey{
+    background-color: grey;
+    margin-right: 2%;
+}
+#white{
+    background-color: #ffffff;
+    margin-right: 2%;
+}
+#blue{
+    background-color: blue;
+    margin-right: 2%;
+}
+#yellow{
+    background-color: yellow;
+    margin-right: 2%;
+}
+.likhahua{
+    margin-top: 12%;
+    text-align: center;  
+}
+.box:hover{
+    cursor:pointer;
+}
